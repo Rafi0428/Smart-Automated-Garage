@@ -24,7 +24,7 @@ To build this project, you will need the following components[cite: 2]:
 
 ## Circuit Diagram & Connections
 
-![Circuit Diagram](image_e43c44.jpg)
+![Circuit Diagram](Circuit_Diagram.jpg)
 
 ### Power Distribution
 * Connect the Arduino 5V pin to the bottom Red (+) rail of the breadboard[cite: 2].
